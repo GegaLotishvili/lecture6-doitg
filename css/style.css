@@ -75,3 +75,21 @@ li a {
     left: 100px;
     z-index: 50;
 }
+
+.s-2 {
+    margin: 300px 0;
+}
+
+.mshobeli {
+    display: inline-block;
+    position: relative;
+}
+
+.textdiv {
+    color: white;
+    font-size: 32px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
